@@ -53,7 +53,7 @@ public class WordPinyin {
 				,"chang", "0xb3ab","chao", "0xb3b4","che", "0xb3ba"
 				,"chen", "0xb3c4","cheng", "0xb3d3","chi", "0xb3e3"
 				,"chong", "0xb3e8","chou", "0xb3f4","chu", "0xb4a6"
-				,"chuai", "0xb4a7","chuan", "0xb4a3","chuang", "0xb4b4"
+				,"chuai", "0xb4a7","chuan", "0xb4ae","chuang", "0xb4b4"
 				,"chui", "0xb4b9","chun", "0xb4c0","chuo", "0xb4c2"
 				,"ci", "0xb4ce","cong", "0xb4d4","cou", "0xb4d9"
 				,"cuan", "0xb4dc","cui", "0xb4e4","cun", "0xb4e7"
@@ -81,14 +81,79 @@ public class WordPinyin {
 				,"hu", "0xbba7","hua", "0xbbb0","huai", "0xbbb5"
 				,"huan", "0xbbc3","huang", "0xbbd1","hui", "0xbbe6"
 				,"hun", "0xbbec","huo", "0xbbf6","ji", "0xbccd"
-				
 				,"jia", "0xbcde","jian", "0xbda8","jiang", "0xbdb5"
 				,"jiao", "0xbdd1","jie", "0xbdec","jin", "0xbea3"
 				,"jing", "0xbebb","jiong", "0xbebd","jiu", "0xbece"
-				
 				,"ju", "0xbee7","juan", "0xbeee","jue", "0xbef8"
 				,"jun", "0xbfa5","ka", "0xbfa9","kai", "0xbfae"
 				,"kan", "0xbfb4","kang", "0xbfbb","kao", "0xbfbf"
+				
+				,"ke", "0xbfce","ken", "0xbfd2","keng", "0xbfd4"
+				,"kong", "0xbfd8","kou", "0xbfdc","ku", "0xbfe3"
+				,"kua", "0xbfe8","kuai", "0xbfec","kuan", "0xbfee"
+				,"kuang", "0xbff6","kui", "0xc0a3","kun", "0xc0a7"
+				
+				,"kuo", "0xc0ab","la", "0xc0b2","lai", "0xc0b5"
+				,"lan", "0xc0c4","lang", "0xc0cb","lao", "0xc0d4"
+				,"le", "0xc0d6","lei", "0xc0e1","leng", "0xc0e4"
+				,"li", "0xc1a8","lia", "0xc1a9","lian", "0xc1b7"
+				
+				,"liang", "0xc1c2","liao", "0xc1cf","lie", "0xc1d4"
+				,"lin", "0xc1e0","ling", "0xc1ee","liu", "0xc1f9"
+				
+				,"long", "0xc2a4","lou", "0xc2aa","lu", "0xc2be"
+				
+				,"lv", "0xc2cc","luan", "0xc2d2","lue", "0xc2d4"
+				,"lun", "0xc2db","luo", "0xc2e7","ma", "0xc2f0"
+				,"mai", "0xc2f6","man", "0xc3a1","mang", "0xc3a7"
+				
+				,"mao", "0xc3b3","me", "0xc3b4","mei", "0xc3c4"
+				,"men", "0xc3c7","meng", "0xc3cf","mi", "0xc3dd"
+				,"mian", "0xc3e6","miao", "0xc3ee","mie", "0xc3f0"
+				
+				,"min", "0xc3f6","ming", "0xc3fc","miu", "0xc3fd"
+				
+				,"mo", "0xc4b0","mou", "0xc4b3","mu", "0xc4c2"
+				
+				,"na", "0xc4c9","nai", "0xc4ce","nan", "0xc4d1"
+				,"nang", "0xc4d2","nao", "0xc4d7","ne", "0xc4d8"
+				,"nei", "0xc4da","nen", "0xc4db","neng", "0xc4dc"
+				
+				,"ni", "0xc4e7","nian", "0xc4ee","niang", "0xc4f0"
+				,"niao", "0xc4f2","nie", "0xc4f9","nin", "0xc4fa"
+				,"ning", "0xc5a2","niu", "0xc5a6","nong", "0xc5aa"
+				
+				,"nu", "0xc5ad","nv", "0xc5ae","nuan", "0xc5af"
+				,"niu", "0xc5b1","nuo", "0xc5b5","ou", "0xc5bd"
+				,"pa", "0xc5c3","pai", "0xc5c9","pan", "0xc5d1"
+				
+				,"pang", "0xc5d6","pao", "0xc5dd","pei", "0xc5e6"
+				,"pen", "0xc5e8","peng", "0xc5f6","pei", "0xc5f7"
+				,"pi", "0xc6a9","pian", "0xc6ad","piao", "0xc6b1"
+				
+				,"pie", "0xc6b3","pin", "0xc6b8","ping", "0xc6c1"
+				,"po", "0xc6ca","pu", "0xc6d9","qi", "0xc6fe"
+				,"qia", "0xc7a2","qian", "0xc7b8","qiang", "0xc7c0"
+				
+				,"qiao", "0xc7cf","qie", "0xc7d4","qin", "0xc7df"
+				,"qing", "0xc7ec","qiong", "0xc7ee","qiu", "0xc7f6"
+				,"qu", "0xc8a5","quan", "0xc8b0","que", "0xc8b8"
+				
+				,"qun", "0xc8ba","ran", "0xc8be","rang", "0xc8c3"
+				,"rao", "0xc8c6","re", "0xc8c8","ren", "0xc8d2"
+				,"reng", "0xc8d4","ri", "0xc8d5","rong", "0xc8df"
+				
+				,"rou", "0xc8e2","ru", "0xc8ec","ruan", "0xc8ee"
+				,"rui", "0xc8f1","run", "0xc8f3","ruo", "0xc8f5"
+				
+				,"sa", "0xc8f8","sai", "0xc8fc","san", "0xc9a2"
+				
+				
+				
+
+				
+				
+				
 				
 				
 				
@@ -109,7 +174,9 @@ public class WordPinyin {
 		}
 		
 		// 目前只支持高位0xB1 -- 0xD7， 低位0xA1 -- 0xFE
-		
+		if(bs[0]<0xB1||bs[0]>0xD7||bs[1]<0xA1||bs[1]>0xFE){
+			return null;
+		}
 		// 获得字符串在GBK表中的数字
 		int val = getInt(word);
 
@@ -145,14 +212,17 @@ public class WordPinyin {
 	
 	private static void add(String ...params){
 		String pinyin=params[0];
-		Integer start=Integer.valueOf(params[1]);
-		Integer end=Integer.valueOf(params[2]);
+		Integer start=Integer.valueOf(params[1].substring(2),16);
+		Integer end=Integer.valueOf(params[2].substring(2),16);
 		add(pinyin,start,end);
 		
 		for(int i=3;i<params.length;i=i+2){
 			pinyin=params[i];
 			start=end+1;
-			end=Integer.valueOf(params[i+1]);
+			end=Integer.valueOf(params[i+1].substring(2),16);
+			if(end<start){
+				System.out.println("错了");
+			}
 			add(pinyin,start,end);
 		}
 	}
